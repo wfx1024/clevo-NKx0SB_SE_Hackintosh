@@ -1,5 +1,8 @@
 # clevo-NKx0SB_SE_Hackintosh
 
+## 2021-11-10
+神舟tx6-cu5da nk60sb模具，升级oc076版本，解决功耗锁10w以及开机弹出错误框
+
 ## 2021-10-23
 神舟tx6-cu5da nk60sb模具，更新引导升级oc-0.7.4版本
 

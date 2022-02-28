@@ -1,5 +1,8 @@
 # clevo-NKx0SB_SE_Hackintosh
 
+## 2022-02-28
+神舟tx6-cu5da nk60sb模具，升级oc078版本，更新驱动到最新版本
+
 ## 2022-01-12
 神舟tx6-cu5da nk60sb模具，升级oc077版本，更新驱动到最新版本
 

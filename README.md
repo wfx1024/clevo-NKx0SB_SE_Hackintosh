@@ -1,5 +1,8 @@
 # clevo-NKx0SB_SE_Hackintosh
 
+## 2022-05-29
+神舟tx6-cu5da nk60sb模具，解决睡眠唤醒多次点击问题，优化SSDT执行时间。
+
 ## 2022-02-28
 神舟tx6-cu5da nk60sb模具，升级oc078版本，更新驱动到最新版本
 

@@ -1,5 +1,8 @@
 # clevo-NKx0SB_SE_Hackintosh
 
+## 2023-02-02
+神舟tx6-cu5da nk60sb模具，适配ventura（macos 13.2）；触摸板全手势支持；nvram工具支持；升级oc088版本。支持睿频控制，需要的可以联系！
+
 ## 2022-10-25
 神舟tx6-cu5da nk60sb模具，适配ventura（macos 13）；触摸板全手势支持；nvram工具支持；升级oc085版本。从此版本开始不再免费开源。感谢支持！如需定制请联系 QQ：2897286120！
 

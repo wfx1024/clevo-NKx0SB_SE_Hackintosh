@@ -1,5 +1,8 @@
 # clevo-NKx0SB_SE_Hackintosh
 
+## 2023-06-29
+神舟tx6-cu5da nk60sb模具，适配ventura（macos 13.4）；更新oc093，解决macos 13.x开机暗屏3分钟，解决ax201蓝牙无法使用，解决ax201 Wi-Fi连接慢问题，需要的可以联系！
+
 ## 2023-02-02
 神舟tx6-cu5da nk60sb模具，适配ventura（macos 13.2）；触摸板全手势支持；nvram工具支持；升级oc088版本。支持睿频控制，需要的可以联系！
 
